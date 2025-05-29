@@ -3,9 +3,6 @@
 using namespace std;
 int main()
 {
-    int length_of_string;
-    cout<< "enter the length of string";
-    cin>> length_of_string;
     string str1;
     cout<< "enter the string: ";
     cin>> str1;
