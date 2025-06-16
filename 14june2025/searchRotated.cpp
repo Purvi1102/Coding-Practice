@@ -10,7 +10,7 @@ int main()
     cin >> size_of_array1;
     int target;
     cout<< "enter target :";
-    cin>> target;
+    cin>> target; 
     vector<int> nums(size_of_array1);
     for (int i = 0; i < size_of_array1; i++)
     {
